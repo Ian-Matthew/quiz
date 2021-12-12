@@ -1,0 +1,96 @@
+{
+  "results": [
+    {
+      "category": "Entertainment: Music",
+      "type": "multiple",
+      "difficulty": "easy",
+      "question": "Which Canadian reggae musician had a 1993 hit with the song &#039;Informer&#039;?",
+      "correct_answer": "Snow",
+      "incorrect_answers": ["Rain", "Hail", "Sleet"]
+    },
+    {
+      "category": "Entertainment: Music",
+      "type": "multiple",
+      "difficulty": "easy",
+      "question": "Which artist released the 2012 single &quot;Harlem Shake&quot;, which was used in numerous YouTube videos in 2013?",
+      "correct_answer": "Baauer",
+      "incorrect_answers": ["RL Grime", "NGHTMRE", "Flosstradamus"]
+    },
+    {
+      "category": "Entertainment: Video Games",
+      "type": "multiple",
+      "difficulty": "easy",
+      "question": "In &quot;Fallout 4&quot; which faction is not present in the game?",
+      "correct_answer": "The Enclave",
+      "incorrect_answers": [
+        "The Minutemen",
+        "The Brotherhood of Steel",
+        "The Institute"
+      ]
+    },
+    {
+      "category": "Entertainment: Musicals & Theatres",
+      "type": "multiple",
+      "difficulty": "medium",
+      "question": "Which of the following is not a piece from the 1950&#039;s musical West Side Story?",
+      "correct_answer": "The Back Alley",
+      "incorrect_answers": ["Maria", "Tonight", "Mambo"]
+    },
+    {
+      "category": "Entertainment: Music",
+      "type": "multiple",
+      "difficulty": "easy",
+      "question": "What was Daft Punk&#039;s first studio album?",
+      "correct_answer": "Homework",
+      "incorrect_answers": [
+        "Discovery",
+        "Random Access Memories",
+        "Human After All"
+      ]
+    },
+    {
+      "category": "Entertainment: Video Games",
+      "type": "multiple",
+      "difficulty": "hard",
+      "question": "Which monster in &quot;Monster Hunter Tri&quot; was causing earthquakes in Moga Village?",
+      "correct_answer": "Ceadeus",
+      "incorrect_answers": ["Alatreon", "Rathalos", "Lagiacrus"]
+    },
+    {
+      "category": "Entertainment: Video Games",
+      "type": "multiple",
+      "difficulty": "medium",
+      "question": "Which of these is NOT a name of a city in the main island of PLAYERUNKNOWN&#039;S BATTLEGROUNDS?",
+      "correct_answer": "Belushya Guba",
+      "incorrect_answers": ["Yasnaya Polyana", "Pochinki", "Georgopol"]
+    },
+    {
+      "category": "Entertainment: Japanese Anime & Manga",
+      "type": "multiple",
+      "difficulty": "hard",
+      "question": "Who was the Author of the manga Uzumaki?",
+      "correct_answer": "Junji Ito",
+      "incorrect_answers": [
+        "Noboru Takahashi",
+        "Akira Toriyama",
+        "Masashi Kishimoto"
+      ]
+    },
+    {
+      "category": "Entertainment: Video Games",
+      "type": "multiple",
+      "difficulty": "medium",
+      "question": "In Night in the Woods, which instrument did Casey play?",
+      "correct_answer": "Drums",
+      "incorrect_answers": ["Bass", "Piano", "Sax"]
+    },
+    {
+      "category": "Entertainment: Video Games",
+      "type": "multiple",
+      "difficulty": "easy",
+      "question": "Which character was introduced to the Super Smash Bros franchise in Super Smash Bros Melee?",
+      "correct_answer": "Sheik",
+      "incorrect_answers": ["Samus", "Lucas", "Mega Man"]
+    }
+  ]
+}
