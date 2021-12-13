@@ -4,14 +4,13 @@ import { useElementSize } from "usehooks-ts";
 import classNames from "classnames";
 import { Question } from "./Question";
 import { shuffleArray } from "./lib/shuffleArrray";
-import { Answer } from "./Answer";
+import { Answer } from "./Option";
 import { getColor } from "./lib/categories";
 
 const LETTERS = ["A", "B", "C", "D"];
 
-export function Start() {
+export function Start({ questions }) {
   // The questions for the round
-  const questions = questionJSON.results;
   // The current questionIndex
   const [questionIndex, setQuestionIndex] = React.useState(0);
   // Current question
